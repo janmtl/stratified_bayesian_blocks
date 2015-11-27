@@ -1,0 +1,34 @@
+[I 18:24:13.781 NotebookApp] Serving notebooks from local directory: /Users/yan/cloud/dev/stratified_bayesian_blocks
+[I 18:24:13.781 NotebookApp] 0 active kernels 
+[I 18:24:13.781 NotebookApp] The IPython Notebook is running at: http://localhost:8888/
+[I 18:24:13.781 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:24:31.129 NotebookApp] Creating new notebook in /docs
+[W 18:24:31.369 NotebookApp] 404 GET /static/components/MathJax/config/Safe.js?rev=2.5.3 (::1) 9.33ms referer=http://localhost:8888/notebooks/docs/Untitled.ipynb?kernel_name=python2
+[I 18:24:31.812 NotebookApp] Kernel started: 4c9c9de5-8976-4f8b-af3a-d9f7933d1aff
+[I 18:26:35.623 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 18:28:09.684 NotebookApp] Kernel restarted: 4c9c9de5-8976-4f8b-af3a-d9f7933d1aff
+[I 18:28:35.613 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 20:10:06.545 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:03:02.535 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:03:19.898 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:03:26.433 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:03:33.830 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:04:26.153 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:04:28.136 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:04:29.265 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:04:38.911 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:05:33.828 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:07:33.828 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:09:33.824 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:11:33.822 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:19:35.800 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 10:27:36.782 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:19:24.563 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:20:01.847 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:21:24.552 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:23:24.553 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:24:46.995 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:25:24.551 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:27:24.553 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:29:25.526 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[I 14:31:26.523 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
