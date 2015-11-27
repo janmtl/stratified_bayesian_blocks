@@ -31,15 +31,14 @@ def stratified_bayesian_blocks(x, p0=0.01, min_bin_width=0.01):
 
     # Create strata
     r, s = np.unique(x, return_counts=True)
-    strata_edges = np.r_[[0], bayesian_blocks(s, p0=0.01)]
+    strata_edges = bayesian_blocks(s, p0=0.01)
     strata_bins = zip(strata_edges[:-1], strata_edges[1:])
 
     # Iterate over each strata
     data_bins = []
     for strata_bin in strata_bins:
-
         # Select the data pertaining only to a given strata
-        sel = (strata_bin[0] < s) & (s <= strata_bin[1])
+        sel = (strata_bin[0] <= s) & (s < strata_bin[1])
         strata_data = np.repeat(r[sel], s[sel])
 
         # Normalize and regularize the data within the strata
