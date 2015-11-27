@@ -32,3 +32,6 @@
 [I 14:27:24.553 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
 [I 14:29:25.526 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
 [I 14:31:26.523 NotebookApp] Saving file at /docs/Stratified Bayesian Blocks.ipynb
+[C 14:35:55.680 NotebookApp] received signal 15, stopping
+[I 14:35:55.691 NotebookApp] Shutting down kernels
+[I 14:35:56.207 NotebookApp] Kernel shutdown: 4c9c9de5-8976-4f8b-af3a-d9f7933d1aff

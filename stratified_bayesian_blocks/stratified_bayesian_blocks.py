@@ -19,7 +19,7 @@ def _regularize(x):
 
 def _normalize(x):
     r, s = np.unique(x, return_counts=True)
-    s = (s - np.min(s)).astype(int)
+    s = (s - np.min(s)+1).astype(int)
     y = np.repeat(r, s)
     return y
 
@@ -54,6 +54,7 @@ def stratified_bayesian_blocks(x, p0=0.01, min_bin_width=0.01):
 
     # Clean up with the min_bin_width heuristic
     sel = (data_bins[1:]-min_bin_width) < data_bins[:-1]
+    sel = np.r_[False, sel]
     data_bins = data_bins[~sel]
 
     return data_bins

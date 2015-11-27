@@ -3,3 +3,5 @@
 __author__ = 'Jan Florjanczyk'
 __email__ = 'jan.florjanczyk@gmail.com'
 __version__ = '0.1.0'
+
+# from stratified_bayesian_blocks import stratified_bayesian_blocks, hist
