@@ -26,6 +26,8 @@ Features
 Credits
 ---------
 
+The algorithm contained in this package was developed  by Jan Florjanczyk and Taylor Sather at ID Analytics in San Diego, CA.
+
 Tools used in rendering this package:
 
 *  Cookiecutter_
